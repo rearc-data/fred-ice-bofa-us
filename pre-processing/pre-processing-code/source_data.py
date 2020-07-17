@@ -37,7 +37,7 @@ def data_to_s3(frmt):
         new_s3_key = data_set_name + '/dataset/'
         s3 = boto3.client('s3')
 
-        # s3.upload_file(file_location, s3_bucket, new_s3_key + filename)
+        s3.upload_file(file_location, s3_bucket, new_s3_key + filename)
 
         print('Uploaded: ' + filename)
 
