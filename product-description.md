@@ -7,9 +7,9 @@ and publishes its datasets is available at
 
 ## Main Overview
 
-This releases provides information on BofA Option-Adjusted-Spreads and uses an index of bonds that are under investment grade(<=BB.)
+This releases contains information on BofA Option-Adjusted-Spreads, and uses an index of bonds that are under investment grade (<=BB.).
 
-Federal Reserve Economic Data(FRED) provides information on over 700,000+ datasets to the public about various topics of economics. If you are interested in learning more or want to search for other datasets by FRED, visit the [FRED homepage](https://fred.stlouisfed.org/).
+The included data is provided by the Federal Reserve Bank of St. Louis' FRED (Federal Reserve Economic Data) platform, which contains information on over 700,000+ series related to historical economic data. If you are interested in learning more or want to explore other datasets maintained on FRED, visit the [FRED homepage](https://fred.stlouisfed.org/).
 
 #### Data Source
 This resources is presented in both the XLS and CSV formats. The included dataset contains the following columns:
