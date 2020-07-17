@@ -30,3 +30,6 @@ It is presented as a percent vs. date graph.
 - If you are looking for specific open datasets currently not available on ADX, please submit a request on our project board [here](https://github.com/rearc-data/ice-bofa-us/issues).
 - If you have questions about the source data, please contact [FRED](https://fred.stlouisfed.org/contactus/) or [ICE/NYSE(Click Data)](https://www.nyse.com/contact) .
 - If you have any other questions or feedback, send us an email at data@rearc.io.
+
+## About Rearc
+Rearc is a cloud, software and services company. We believe that empowering engineers drives innovation. Cloud-native architectures, modern software and data practices, and the ability to safely experiment can enable engineers to realize their full potential. We have partnered with several enterprises and startups to help them achieve agility. Our approach is simple — empower engineers with the best tools possible to make an impact within their industry.
