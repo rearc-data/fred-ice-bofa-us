@@ -19,8 +19,9 @@ This resources is presented in both the XLS and CSV formats. The included datase
 It is presented as a percent vs. date graph.
 
 ## More Information
-- Source: [Federal Reserve Economic Data(FRED)](https://fred.stlouisfed.org/series/BAMLH0A0HYM2)
-- [FRED Homepage](https://fred.stlouisfed.org/)
+- Source: [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/series/BAMLH0A0HYM2)
+- [FRED | Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
+- [Federal Reserve Bank of St. Louis | Homepage](https://www.stlouisfed.org/)
 - [Terms of Use FAQ](https://fred.stlouisfed.org/legal/)
 - Frequency: Daily
 - Formats: XLS, CSV
