@@ -13,6 +13,10 @@ This releases contains information on BofA Option-Adjusted-Spreads, and uses an 
 The included data is provided by the Federal Reserve Bank of St. Louis' FRED (Federal Reserve Economic Data) platform, which contains information on over 700,000+ series related to historical economic data. If you are interested in learning more or want to explore other datasets maintained on FRED, visit the [FRED homepage](https://fred.stlouisfed.org/).
 
 #### Data Source
+This resource is presented in both the XLS and CSV formats. The included dataset contains the following columns:
+
+`date, BAMLH0A0HYM2`
+
 The values within the data field labeled `BAMLH0A0HYM2` represents the performance of the US dollar below investment grade rated corporate debt publicly issued in the US domestic market in relation to its corresponding `date` value.
 
 ## More Information
