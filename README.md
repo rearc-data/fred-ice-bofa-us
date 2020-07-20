@@ -17,8 +17,7 @@ This resources is presented in both the XLS and CSV formats. The included datase
 
 `"date", "BAMLH0A0HYM2"`
 
-It is presented as a percent vs. date graph.
-
+The values within the data field labeled BAMLH0A0HYM2 represents the performance of the US dollar below investment grade rated corporate debt publicly issued in the US domestic market in relation to its corresponding date value.
 ## More Information
 - Source: [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/series/BAMLH0A0HYM2)
 - [FRED | Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
