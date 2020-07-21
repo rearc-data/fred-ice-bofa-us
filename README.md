@@ -4,7 +4,7 @@
 
 # ICE BofA US High Yield Index Option-Adjusted Spread | FRED
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-eseh7qlygumhe](https://aws.amazon.com/marketplace/pp/prodview-eseh7qlygumhe). 
 
 ## Main Overview
 
